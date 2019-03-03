@@ -7,3 +7,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - /script
+
+theme: jekyll-theme-cayman
