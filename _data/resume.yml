@@ -1,6 +1,6 @@
 title: "简历"
 name: "杨明强"
-jobtitle: "Javascript开发工程师"
+jobtitle: "前端开发工程师"
 contact:
   - icon: fa-envelope
     text: 1758827460@qq.com
@@ -18,12 +18,12 @@ education:
     location: "武汉"
     major: "材料化学"
 skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
+  - title: 前端技术栈
+    items: JavaScript, HTML, CSS, Vue, 了解React
+  - title: 后端技术栈
+    items: Node.js, Express, PostgreSQL, Redis
+  - title: 工具
+    items: Git, WebPack
 experience:
   - title: Job Title 1
     duration: Apr 2016 - Now
