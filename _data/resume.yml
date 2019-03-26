@@ -37,15 +37,12 @@ projects:
   - name: "暧聊"
     description: 一个聊天视频交友App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，集成了支付、登录、存储、聊天消息等第三方SDK，利用redis缓存进程id的方式解决了node-schedule模块的定时任务在多进程模式下重复执行问题，用在http request的时候利用中间件和事件监听模式进行对res.send封装一层，使每个路由的响应和错误处理结构更加清晰。用户管理后台包用户行为分析、App数据统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件以及进行二次封装，整个项目结构清晰，可扩展性强。
     contribution: "构建Restful Api以及嵌入Web页开发"    
-projects:
   - name: "暧聊"
     description: 一个聊天视频交友App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，集成了支付、登录、存储、聊天消息等第三方SDK，利用redis缓存进程id的方式解决了node-schedule模块的定时任务在多进程模式下重复执行问题，用在http request的时候利用中间件和事件监听模式进行对res.send封装一层，使每个路由的响应和错误处理结构更加清晰。用户管理后台包用户行为分析、App数据统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件以及进行二次封装，整个项目结构清晰，可扩展性强。
     contribution: "构建Restful Api以及嵌入Web页开发"
-projects:
   - name: "暧聊"
     description: 一个聊天视频交友App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，集成了支付、登录、存储、聊天消息等第三方SDK，利用redis缓存进程id的方式解决了node-schedule模块的定时任务在多进程模式下重复执行问题，用在http request的时候利用中间件和事件监听模式进行对res.send封装一层，使每个路由的响应和错误处理结构更加清晰。用户管理后台包用户行为分析、App数据统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件以及进行二次封装，整个项目结构清晰，可扩展性强。
     contribution: "构建Restful Api以及嵌入Web页开发"
-projects:
   - name: "暧聊"
     description: 一个聊天视频交友App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，集成了支付、登录、存储、聊天消息等第三方SDK，利用redis缓存进程id的方式解决了node-schedule模块的定时任务在多进程模式下重复执行问题，用在http request的时候利用中间件和事件监听模式进行对res.send封装一层，使每个路由的响应和错误处理结构更加清晰。用户管理后台包用户行为分析、App数据统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件以及进行二次封装，整个项目结构清晰，可扩展性强。
     contribution: "构建Restful Api以及嵌入Web页开发"
