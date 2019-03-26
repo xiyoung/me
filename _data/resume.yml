@@ -18,11 +18,13 @@ education:
     location: "武汉"
     major: "材料化学"
 skills:
-  - title: 前端技术栈
+  - title: Front End
     items: JavaScript, HTML5, CSS3, Vue, 了解React
-  - title: 后端技术栈
-    items: Node.js, Express, PostgreSQL, Redis, 了解Docker
-  - title: 工具
+  - title: Back End
+    items: Node.js, Express, 了解Nginx, 了解Docker
+  - title: Database
+    items: PostgreSQL, MySQL, Redis
+  - title: Tools
     items: Git, WebPack
 experience:
   - title: "Web开发工程师"
