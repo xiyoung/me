@@ -25,27 +25,27 @@ skills:
   - title: 工具
     items: Git, WebPack
 experience:
-  - title: Job Title 1
-    duration: Apr 2016 - Now
-    company: Your 1st, Inc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: "Web开发工程师"
+    duration: "2016/03 - 2018/03"
+    company: "深圳宝峰软件"
+    description: 作为公司Web项目的主要开发，负责“暧聊”项目后台开发以及客户端嵌入Web开发工作，还有XX商城项目的前端开发工作，XX金融等项目的前端开发工作
+  - title: "web开发工程师"
+    duration: "2018/04 - 至今"
+    company: "武汉华大国数"
+    description: 主要负责公司XX项目的前端开发工作
 projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
-  - name: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
-languages:
-  - name: English
-    proficiency: Work proficiency
-  - name: Mandarin Chinese
-    proficiency: Native
+  - name: "暧聊"
+    description: 一个聊天视频交友App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，集成了支付、登录、存储、聊天消息等第三方SDK，利用redis缓存进程id的方式解决了node-schedule模块的定时任务在多进程模式下重复执行问题，用在http request的时候利用中间件和事件监听模式进行对res.send封装一层，使每个路由的响应和错误处理结构更加清晰。用户管理后台包用户行为分析、App数据统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件以及进行二次封装，整个项目结构清晰，可扩展性强。
+    contribution: "构建Restful Api以及嵌入Web页开发"    
+projects:
+  - name: "暧聊"
+    description: 一个聊天视频交友App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，集成了支付、登录、存储、聊天消息等第三方SDK，利用redis缓存进程id的方式解决了node-schedule模块的定时任务在多进程模式下重复执行问题，用在http request的时候利用中间件和事件监听模式进行对res.send封装一层，使每个路由的响应和错误处理结构更加清晰。用户管理后台包用户行为分析、App数据统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件以及进行二次封装，整个项目结构清晰，可扩展性强。
+    contribution: "构建Restful Api以及嵌入Web页开发"
+projects:
+  - name: "暧聊"
+    description: 一个聊天视频交友App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，集成了支付、登录、存储、聊天消息等第三方SDK，利用redis缓存进程id的方式解决了node-schedule模块的定时任务在多进程模式下重复执行问题，用在http request的时候利用中间件和事件监听模式进行对res.send封装一层，使每个路由的响应和错误处理结构更加清晰。用户管理后台包用户行为分析、App数据统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件以及进行二次封装，整个项目结构清晰，可扩展性强。
+    contribution: "构建Restful Api以及嵌入Web页开发"
+projects:
+  - name: "暧聊"
+    description: 一个聊天视频交友App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，集成了支付、登录、存储、聊天消息等第三方SDK，利用redis缓存进程id的方式解决了node-schedule模块的定时任务在多进程模式下重复执行问题，用在http request的时候利用中间件和事件监听模式进行对res.send封装一层，使每个路由的响应和错误处理结构更加清晰。用户管理后台包用户行为分析、App数据统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件以及进行二次封装，整个项目结构清晰，可扩展性强。
+    contribution: "构建Restful Api以及嵌入Web页开发"
