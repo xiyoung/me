@@ -19,9 +19,9 @@ education:
     major: "材料化学"
 skills:
   - title: 前端技术栈
-    items: JavaScript, HTML, CSS, Vue, 了解React
+    items: JavaScript, HTML5, CSS3, Vue, 了解React
   - title: 后端技术栈
-    items: Node.js, Express, PostgreSQL, Redis
+    items: Node.js, Express, PostgreSQL, Redis, 了解Docker
   - title: 工具
     items: Git, WebPack
 experience:
