@@ -40,11 +40,11 @@ projects:
     description: 整个项目非常庞大，有近100个组件，很多公共组件是对ElementUI组件进行了二次封装，极大地提高了团队工作效率，用前后端配合处理权限问题的方式重构用户权限模块，使项目结构清晰，可维护性强。
     contribution: "舆情监测系统前端开发"    
   - name: "暧聊"
-    description: 一个视频聊天交友原生App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，集成了支付、登录、存储、聊天消息等第三方SDK，期间我利用redis缓存进程id的方式解决了node-schedule模块在多进程模式下做定时任务重复执行问题，利用Express的中间件和Node.js的events模块对服务端响应作处理，使整个服务架构和数据流结构更加清晰。用户管理后台包括App用户日常数据收集、统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件及进行二次封装，整个项目结构清晰，可扩展性强。
+    description: 一个视频聊天交友原生App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，集成了支付、登录、存储、聊天消息等第三方SDK，期间我利用redis缓存进程id的方式解决了node-schedule模块在多进程模式下做定时任务重复执行问题，利用Express的中间件和Node.js的events模块对服务端响应作处理，使整个服务架构和数据流结构更加清晰。用户后台管理系统包括App用户日常数据收集、统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件及进行二次封装，整个项目结构清晰，可扩展性强。
     contribution: "RESTful API以及App后台管理系统前端开发"
-  - name: "TDS监测云"
-    description: 整个项目非常庞大，有近100个组件，很多公共组件是对ElementUI组件进行了二次封装，极大地提高了团队工作效率，用前后端配合处理权限问题的方式重构用户权限模块，使项目结构清晰，可维护性强。
+  - name: "小明生鲜"
+    description: 一个生鲜配送Web App项目，用Vue技术栈开发，其中商家和购物车模块数据比较复杂，把购物车剥离出来形成一个独立的组件，由Vuex统一管理数据流，使整个业务数据结构清晰。
     contribution: "舆情监测系统前端开发"
-  - name: "暧聊"
-    description: 一个聊天视频交友App，后端使用Node.js、Express、PostgreSQL、Redis搭建，有首页、视频、会员等近50个功能模块，后端集成了支付、登录、存储、聊天消息、短信等第三方SDK，利用redis缓存进程id的方式解决了node-schedule模块的定时任务在多进程模式下重复执行问题，用在http request的时候利用中间件和事件监听模式进行对res.send封装一层，使每个路由的响应和错误处理结构更加清晰。用户管理后台包用户行为分析、App数据统计等功能，采用Vue-cli2搭建，用VueX作全局数据状态管理，集成ElementUI部分公共组件以及进行二次封装，整个项目结构清晰，可扩展性强。
+  - name: "柚子分期"
+    description: 一个分期贷款Web App项目，我负责比较核心的用户信息模块，封装了银行卡信息、订单等重要组件，经过不断优化，在用户体验上非常接近原生App。
     contribution: "构建Restful Api以及嵌入Web页开发"
