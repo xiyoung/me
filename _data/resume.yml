@@ -36,7 +36,7 @@ experience:
     company: "深圳宝峰软件"
     description: 公司Web项目前端以Vue框架为主，作为主要开发，参与并完成了六个比较大的项目的开发工作，其中包括两个项目的RESTful API设计和开发，使我对Node.js和Vue技术栈打下了良好的基础。
 projects:
-  - name: "TDS监测云"
+  - name: "监测云项目"
     description: 整个系统比较庞大，页面结构以表格和表单形式展示数据偏多，所以选择ElementUI作为本项目的基础UI框架，然后根据自身业务特点在ElementUI框架的基础上二次封装了大量可复用组件，极大地提高了团队工作效率，用户角色和权限保存在后端，前端动态生成路由，做到了API级别的权限控制，极大地提高了项目的可维护性。
     contribution: "前端开发"    
   - name: "暧聊"
