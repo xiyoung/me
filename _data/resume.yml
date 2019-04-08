@@ -41,7 +41,7 @@ projects:
     contribution: "前端开发"    
   - name: "暧聊"
     description: 一个视频聊天交友原生App以及配套后台管理系统项目，我负责RESTful API以及后台管理系统开发工作，后端使用Node.js + Express + PostgreSQL + Redis搭建。用户后台管理系统包含用户日常数据收集、统计等功能，用Vuex作全局数据状态管理，集成了ECharts、富文本编辑器等第三方插件，整个项目结构清晰，可扩展性强。
-    contribution: "RESTful API以及App后台管理系统前端开发"
+    contribution: "前端开发/后端开发"
   - name: "小明生鲜"
     description: 整个项目分为店铺商品展示、店铺评价、用户个人中心、商品条件筛选等模块，未使用第三方UI框架，所有UI组件以及业务组件都是自己封装，其中购物车组件涉及到大量业务数据处理，使用Vuex以及本地缓存统一管理用户-店铺的购物车数据，使得整个业务数据流清晰而易于管理。
     contribution: "前端开发"
