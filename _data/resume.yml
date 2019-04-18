@@ -34,7 +34,7 @@ experience:
   - title: "Web开发工程师"
     duration: "2016/03 - 2018/03"
     company: "深圳宝峰软件"
-    description: 公司Web项目以Vue框架为主，作为主要开发，参与并完成了六个比较大的项目的开发工作，其中包括两个项目的RESTful API设计和开发，使我对Node.js + Vue技术栈打下了良好的基础。
+    description: 公司Web项目以Vue框架为主，作为主要开发，团队采用我给出的关于GitFlow工作流标准、ESlint代码检查规范标准的方案，参与并完成了六个比较大的项目的开发工作，其中包括两个项目的RESTful API设计和开发，使我对Node.js + Vue技术栈打下了良好的基础。
 projects:
   - name: "监测云项目"
     description: 这是一个舆情监测项目，整个项目系统比较庞大，用webpack + Vue + Vue Router + Vuex构建，以ElementUI作为本项目的基础UI组件库，结合本项目的业务特点，我在其基础上二次封装了分页、表格等公共组件供团队使用，提高了团队的工作效率。用户角色和权限保存在后端，前端动态生成路由，自定义权限控制指令，做到了API级别的权限控制，极大地提高了项目的可维护性。
