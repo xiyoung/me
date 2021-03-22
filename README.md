@@ -5,7 +5,7 @@
 
 ## Introduction
 
-[English](/README.md) [简体中文](/README_zh-CN.md)
+[English](/README.md) [简体中文](/README-CN.md)
 
 This is a responsive minimal résumé template made by Crisp, powered by [Jekyll](http://jekyllrb.com/).
 
@@ -109,7 +109,7 @@ The Jekyll project members have been discussed the `jekyll extract` command and 
 
 ## Showcases
 
-* [David Zhang](https://crispgm.com/resume/)
+* [Xiyoung](https://xiyoung.github.io/me)
 
 ## License
 

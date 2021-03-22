@@ -11,7 +11,7 @@
 
 通过配置 `yaml` 文件，就可以完成简历，并部署在网站上或是输出成PDF。Whatever you want!
 
-[示例](https://crispgm.github.io/resume/resume_zh-CN.html)
+[示例](https://crispgm.github.io/resume/resume.html)
 
 ## 功能和特点
 
@@ -109,7 +109,7 @@ Jekyll 的项目维护者和贡献者目前还在讨论一些解决方案，比�
 
 ## Showcases
 
-* [David Zhang](https://crispgm.com/resume/)
+* [Xiyoung](https://xiyoung.github.io/me)
 
 ## 协议
 
