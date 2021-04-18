@@ -19,32 +19,36 @@ education:
     major: "材料化学"
 skills:
   - title: Front End
-    items: JavaScript, HTML5, CSS3, Vue, 了解React
+    items: JavaScript, HTML5, CSS3, React, 熟悉Vue, 熟悉TypeScript 
   - title: Back End
-    items: Node.js, Express, 了解Nginx, 了解Docker
+    items: Node.js, Express, Koa, 了解Nginx, 了解Docker
   - title: Database
-    items: PostgreSQL, MySQL, Redis
+    items: PostgreSQL, Redis
   - title: Tools
     items: Git, webpack
 experience:
   - title: "Web开发工程师"
-    duration: "2018/04 - 至今"
+    duration: "2019/06 - 至今"
+    company: "北京知道创宇"
+    description: 负责公司和腾讯联合开发的腾讯御点项目，以及由腾讯御点模块化升级后的腾讯iOA项目Web控制台端的开发工作。在项目每月两次迭代和对特殊客户的定制化开发过程中，灵活运用了Web工程化、模块化、Web安全等技术，在和腾讯同事合作的过程中，提升了我对企业安全产品的业务能力，解决项目中重难点问题的效率也有了很大的提高。
+  - title: "Web开发工程师"
+    duration: "2018/04 - 2019/05"
     company: "武汉华大国数"
-    description: 负责公司舆情监测项目的前端工作，除了完成公共组件和业务组件的开发工作，在比较棘手的权限控制等问题上找到了较好的解决方案，期间还负责两个微服务的RESTful API开发工作，使我对Node.js + Docker的微服务架构以及基于OAuth2.0认证的租户系统搭建有了较深入的认识。
+    description: 负责师大小雅云笔记项目的搭建、开发和维护工作。整个系统前后端按模块都采用微服务架构，我除了完成项目重要公共组件、业务组件、RESTful API的开发，在比较棘手的权限控制等问题上找到了合适的解决方案，我对React + iFrame、Node.js + Docker的微服务实践，以及基于OAuth2.0认证的单点登录授权系统的搭建有了较深入的认识。
   - title: "Web开发工程师"
     duration: "2016/03 - 2018/03"
     company: "深圳宝峰软件"
-    description: 公司Web项目以Vue框架为主，作为主要开发，团队采用我给出的关于GitFlow工作流标准、ESlint + Prettier代码检查规范标准的方案，参与并完成了六个比较大的项目的开发工作，其中包括两个项目的RESTful API设计和开发，使我对Node.js + Vue技术栈打下了良好的基础。
+    description: 公司Web项目以Vue框架为主，作为主要开发，团队采用了我提出的关于代码管理、代码检查、单元测试等规范项目开发的的方案，参与并完成了六个中型项目的开发工作，其中包括两个项目的RESTful API设计和开发，使我对Node.js + Vue技术栈打下了良好的基础。
 projects:
-  - name: "监测云项目"
-    description: 这是一个舆情监测项目，整个项目系统比较庞大，用webpack + Vue + Vue Router + Vuex构建，以ElementUI作为本项目的基础UI组件库，结合本项目的业务特点，我在其基础上二次封装了分页、表格等公共组件供团队使用，提高了团队的工作效率。用户角色和权限保存在后端，前端动态生成路由，自定义权限控制指令，做到了API级别的权限控制，极大地提高了项目的可维护性。
-    contribution: "前端开发"    
-  - name: "暧聊"
-    description: 一个视频聊天交友原生App以及配套后台管理系统项目，我负责RESTful API以及后台管理系统开发工作，后端使用Node.js + Express + PostgreSQL + Redis搭建，用Docker部署。用户后台管理系统包含用户日常数据收集、统计等功能，用Vuex作全局数据状态管理，集成了ECharts、富文本编辑器等插件，整个项目结构清晰，可扩展性强。
-    contribution: "前端开发/后端开发" 
-  - name: "小明生鲜"
-    description: 本商城项目包含近50个页面，整个项目从搭建、编写到发布由我独立完成，由于没有找到比较合适的开源组件库，所有组件都是我自己封装，其中购物车组件涉及到大量业务数据处理，使用Vuex搭配本地缓存统一管理用户-店铺的购物车数据，使得整个业务数据流清晰而易于管理。
+  - name: "腾讯iOA"
+    description: 一个集多平台终端管理、安全防护、智能网关等功能的企业安全管理系统，我主要负责Web控制台前后端的开发、维护和升级工作。项目主要使用React + Node.js + PostgreSQL + Redis等技术，在项目迭代的过程中，我重构了终端树公共组件，减少了20%的代码量，负责开发并参与设计了终端安全评分模块，使管理员对终端的管理效率提升了至少一倍，对策略模块数据处理类的重构，大大增加了此处的复用性和可维护性。
+    contribution: "前端开发/后端开发"
+  - name: "师大小雅云笔记"
+    description: 这是一个集笔记、脑图、幻灯片、白板等工具，和为华师智慧教育各系统提供授权功能的云平台，项目使用微服务架构，前端采用webpack + React + React Router + Redux构建，以Ant Design作为基础UI组件库，结合本项目的业务特点，我在其基础上封装了多功能表格、表单等公共组件，提高了团队的工作效率，结合华师智慧教育各系统的账号管理特性，搭建了基于OAuth2.0认证的单点登录授权系统，达到了一个账号访问所有系统的效果。
     contribution: "前端开发"
+  - name: "暧聊"
+    description: 一个视频聊天交友原生App以及配套后台管理系统项目，我负责RESTful API以及后台管理系统开发工作。后端使用Node.js + Express + PostgreSQL + Redis搭建，用Docker部署。用户后台管理系统包含用户日常数据收集、统计等功能，用Vuex作全局数据状态管理，集成了ECharts、富文本编辑器等插件，整个项目技术选型合理，降低了项目的bug率，提高了团队的开发效率。
+    contribution: "前端开发/后端开发"
   - name: "柚子分期"
-    description: 一个分期贷款Web App项目，包含首页、用户订单、用户信息等模块，采用vw适配方案解决移动端不同机型适配问题，根据自身业务设计并封装了银行卡信息、订单等重要组件，使用骨架屏、组件及图片懒加载、合理利用keep-alive等技术优化用户体验，通过这个项目，我对Vue技术栈在移动端的运用有了深刻的理解。
+    description: 一个分期贷款Web App项目，包含首页、用户订单、用户信息等模块，采用vw适配方案解决移动端不同机型适配问题，根据自身业务特点设计并封装了银行卡信息、订单等重要组件，使用骨架屏、组件及图片懒加载、合理利用keep-alive等技术优化用户体验，移动端Web App对比原生开发在研发周期上的优势，使本产品快速成型以及迭代，此方案亦应用到了公司其他的一些产品上。
     contribution: "前端开发"
