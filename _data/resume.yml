@@ -45,7 +45,7 @@ projects:
     contribution: "前端开发/后端开发"
   - name: "师大小雅云笔记"
     description: 这是一个集笔记、脑图、幻灯片、白板等工具，和为华师智慧教育各系统提供授权功能的云平台，项目使用微服务架构，前端采用webpack + React + React Router + Redux构建，以Ant Design作为基础UI组件库，结合本项目的业务特点，我在其基础上封装了多功能表格、表单等公共组件，提高了团队的工作效率，结合华师智慧教育各系统的账号管理特性，搭建了基于OAuth2.0认证的单点登录授权系统，达到了一个账号访问所有系统的效果。
-    contribution: "前端开发"
+    contribution: "前端开发/后端开发"
   - name: "暧聊"
     description: 一个视频聊天交友原生App以及配套后台管理系统项目，我负责RESTful API以及后台管理系统开发工作。后端使用Node.js + Express + PostgreSQL + Redis搭建，用Docker部署。用户后台管理系统包含用户日常数据收集、统计等功能，用Vuex作全局数据状态管理，集成了ECharts、富文本编辑器等插件，整个项目技术选型合理，降低了项目的bug率，提高了团队的开发效率。
     contribution: "前端开发/后端开发"
